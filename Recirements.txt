@@ -1,0 +1,10 @@
+transformers==4.45.1
+torch==2.4.1+cpu 
+
+# For saving and loading models
+joblib==1.4.2
+
+# For deployment
+streamlit==1.38.0
+
+
